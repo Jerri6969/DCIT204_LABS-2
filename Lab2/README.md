@@ -24,7 +24,7 @@ Space Complexity: O(n) — for storing the input array.
 
 
 Sample Run
-Sample1
+Sample 1
 
 Enter the number of elements in the array: 7
 Enter 7 integer values:
